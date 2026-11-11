@@ -1,0 +1,14 @@
+COMMAND: g++ -std=c++17 -Wall -Wextra /mnt/data/DSA01_Assignment1_Package/Task11/task11_final_design.cpp -o /mnt/data/DSA01_Assignment1_Package/Execution_Logs/task11_final_design
+RETURN CODE: 0
+STDOUT:
+
+STDERR:
+
+RUN RETURN CODE: 0
+RUN STDOUT:
+Fare paise: 3600
+Journey allowed
+Balance paise: 6400
+
+RUN STDERR:
+

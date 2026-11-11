@@ -1,0 +1,16 @@
+COMMAND: g++ -std=c++17 -Wall -Wextra /mnt/data/DSA01_Assignment1_Package/Task12/task12_revised_design.cpp -o /mnt/data/DSA01_Assignment1_Package/Execution_Logs/task12_revised_design
+RETURN CODE: 0
+STDOUT:
+
+STDERR:
+
+RUN RETURN CODE: 0
+RUN STDOUT:
+Airport: Monthly pass accepted; no fare deducted. Card balance paise = 20000
+Airport: Monthly pass accepted; no fare deducted. Card balance paise = 20000
+Airport: Monthly pass accepted; no fare deducted. Card balance paise = 20000
+Outer: Fare paise = 2700. Payment accepted. Card balance paise = 17300
+Inner: Monthly pass accepted; no fare deducted. Card balance paise = 17300
+
+RUN STDERR:
+

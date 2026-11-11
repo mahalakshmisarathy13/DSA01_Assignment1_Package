@@ -1,0 +1,20 @@
+COMMAND: g++ -std=c++17 -Wall -Wextra /mnt/data/DSA01_Assignment1_Package/Task10/task10_totals.cpp -o /mnt/data/DSA01_Assignment1_Package/Execution_Logs/task10_totals
+RETURN CODE: 0
+STDOUT:
+
+STDERR:
+
+RUN RETURN CODE: 0
+RUN STDOUT:
+INT_MAX = 2147483647
+LLONG_MAX = 9223372036854775807
+Journeys: 20000 | exact paise: 20000000 | double rupees: 200000.00000000
+  int paise total is within INT_MAX
+Journeys: 500000 | exact paise: 500000000 | double rupees: 5000000.00000000
+  int paise total is within INT_MAX
+Journeys: 3000000 | exact paise: 3000000000 | double rupees: 30000000.00000000
+  int paise total would exceed INT_MAX
+Repeated double total: 100000.00000133 | integer paise / 100: 100000.00000000
+
+RUN STDERR:
+

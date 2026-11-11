@@ -1,0 +1,17 @@
+COMMAND: g++ -std=c++17 -Wall -Wextra /mnt/data/DSA01_Assignment1_Package/Task08/task08_safe_input.cpp -o /mnt/data/DSA01_Assignment1_Package/Execution_Logs/task08_safe_input
+RETURN CODE: 0
+STDOUT:
+
+STDERR:
+
+RUN RETURN CODE: 0
+RUN STDOUT:
+Passenger name: Balance in rupees: Zone (1=Inner, 2=Middle, 3=Outer): Hour (0-23): 
+--- Journey Report ---
+Passenger: Sample Passenger
+Fare: Rs 36.00
+Status: Allowed
+Remaining balance: Rs 64.00
+
+RUN STDERR:
+

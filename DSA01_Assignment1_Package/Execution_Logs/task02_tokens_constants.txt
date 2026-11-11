@@ -1,0 +1,14 @@
+COMMAND: g++ -std=c++17 -Wall -Wextra /mnt/data/DSA01_Assignment1_Package/Task02/task02_tokens_constants.cpp -o /mnt/data/DSA01_Assignment1_Package/Execution_Logs/task02_tokens_constants
+RETURN CODE: 0
+STDOUT:
+
+STDERR:
+
+RUN RETURN CODE: 0
+RUN STDOUT:
+Outer base fare (paise): 3000
+Peak surcharge (%): 20
+Minimum balance (paise): 5000
+
+RUN STDERR:
+

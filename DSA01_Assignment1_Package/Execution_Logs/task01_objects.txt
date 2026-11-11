@@ -1,0 +1,13 @@
+COMMAND: g++ -std=c++17 -Wall -Wextra /mnt/data/DSA01_Assignment1_Package/Task01/task01_objects.cpp -o /mnt/data/DSA01_Assignment1_Package/Execution_Logs/task01_objects
+RETURN CODE: 0
+STDOUT:
+
+STDERR:
+
+RUN RETURN CODE: 0
+RUN STDOUT:
+Can travel: Yes
+Balance paise: 8000
+
+RUN STDERR:
+

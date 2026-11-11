@@ -1,0 +1,16 @@
+COMMAND: g++ -std=c++17 -Wall -Wextra /mnt/data/DSA01_Assignment1_Package/Task05/task05_operators.cpp -o /mnt/data/DSA01_Assignment1_Package/Execution_Logs/task05_operators
+RETURN CODE: 0
+STDOUT:
+
+STDERR:
+
+RUN RETURN CODE: 0
+RUN STDOUT:
+11 16
+9 6 4
+6 4
+3 1 -3 -1
+18
+
+RUN STDERR:
+
